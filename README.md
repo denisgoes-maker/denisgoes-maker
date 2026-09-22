@@ -18,75 +18,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de Tecnologia da Informação com experiência em **infraestrutura, redes, suporte e telecomunicações**.
+Profissional de TI com experiência em **infraestrutura, redes, suporte e telecomunicações**.
 
-Atualmente estou direcionando minha carreira para **Cloud Infrastructure**, com foco em **Linux, Microsoft Azure, redes, virtualização, Git e GitHub**.
-
-Este perfil reúne projetos, laboratórios e experiências práticas relacionados à infraestrutura de TI e Cloud.
+Atualmente com foco em **Cloud Infrastructure, Linux, Microsoft Azure, Networking e Virtualização**.
 
 ---
 
-## ☁️ Cloud Infrastructure
-
-Meu foco atual está em desenvolver uma base sólida em **infraestrutura e computação em nuvem**, combinando conceitos técnicos com prática em laboratório.
-
-### Microsoft Azure
-
-- Resource Groups
-- Virtual Machines
-- Storage
-- Virtual Networks
-- Subnets
-- Network Security Groups
-- Identity & Access
-- Monitoring
-- Security
-- Governance
-
-Os conhecimentos e projetos serão documentados aqui conforme forem desenvolvidos e publicados.
-
----
-
-## 🐧 Linux
-
-Estou desenvolvendo experiência prática com **servidores Linux**, utilizando laboratórios para trabalhar conceitos de administração, redes e troubleshooting.
-
-### Ubuntu Server
-
-- SSH
-- Usuários e grupos
-- Permissões
-- Processos
-- Serviços
-- Networking
-- Storage
-- Logs
-- Gerenciamento de pacotes
-- Troubleshooting
-
----
-
-## 🌐 Networking
-
-Minha experiência profissional em **telecomunicações, infraestrutura e redes** é uma das bases da minha trajetória em Tecnologia da Informação.
-
-### Áreas de interesse e desenvolvimento
-
-- TCP/IP
-- IPv4
-- Subnets
-- VLANs
-- Switching
-- Routing
-- DNS
-- DHCP
-- VPN
-- Network Security
-- Cloud Networking
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -100,9 +38,7 @@ Minha experiência profissional em **telecomunicações, infraestrutura e redes*
 
 ### ☁️ Azure Cloud Support Lab
 
-Laboratório prático desenvolvido para explorar conceitos de **Microsoft Azure, infraestrutura Cloud e suporte técnico**.
-
-O projeto faz parte da construção do meu portfólio prático e reúne configurações, testes e documentação realizados durante o desenvolvimento.
+Laboratório prático de **Microsoft Azure e infraestrutura Cloud**, desenvolvido para simular cenários de suporte, configuração e troubleshooting.
 
 <a href="https://github.com/denisgoes-maker/azure-cloud-support-lab">
 <img src="https://img.shields.io/badge/Ver%20projeto-58A6FF?style=for-the-badge&logo=github&logoColor=white">
@@ -110,29 +46,27 @@ O projeto faz parte da construção do meu portfólio prático e reúne configur
 
 ---
 
-## 🧪 Laboratórios
+## 🧪 Labs
 
-Estou construindo um ambiente prático para desenvolver e documentar conhecimentos em infraestrutura.
+### 🐧 Linux Lab
 
-### Linux
+Laboratório de administração e troubleshooting com **Ubuntu Server**.
 
-Laboratórios com **Ubuntu Server**, administração de sistemas, SSH, usuários, permissões, serviços, networking e troubleshooting.
+### ☁️ Azure Lab
 
-### Azure
+Laboratórios práticos de infraestrutura utilizando **Microsoft Azure**.
 
-Laboratórios envolvendo recursos de infraestrutura e serviços da plataforma Microsoft Azure.
+### 🌐 Networking Lab
 
-### Networking
+Laboratórios de redes, conectividade e troubleshooting.
 
-Estudos práticos de redes, conectividade, endereçamento, serviços de rede e troubleshooting.
+### 🖥️ Virtualization Lab
 
-### Virtualização
-
-Utilização de máquinas virtuais para criação de ambientes de laboratório e testes de infraestrutura.
+Ambientes virtuais para testes e administração de infraestrutura.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
 <div align="center">
 
@@ -174,69 +108,12 @@ Utilização de máquinas virtuais para criação de ambientes de laboratório e
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/denisgoes-maker/denisgoes-maker/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🎯 Foco atual
-
-<div align="center">
-
-### Cloud Infrastructure
-### Linux
-### Microsoft Azure
-### Networking
-### Virtualization
-### IT Support
-### Troubleshooting
-
-</div>
-
----
-
-## 📚 Formação & Desenvolvimento
-
-Atualmente estou aprofundando conhecimentos em:
-
-- Microsoft Azure
-- Linux
-- Cloud Computing
-- Networking
-- IT Support
-- Git & GitHub
-- Virtualização
-- Troubleshooting
-
-Meu objetivo é transformar esses conhecimentos em **laboratórios, projetos e documentação técnica**, construindo progressivamente um portfólio voltado para infraestrutura e Cloud.
-
----
-
-## 🎯 Próximos passos
-
-- 🐧 Aprofundar administração Linux
-- ☁️ Expandir os laboratórios Azure
-- 🌐 Aprofundar Networking
-- 🔧 Desenvolver troubleshooting
-- 📦 Evoluir Git & GitHub
-- 🧪 Construir novos laboratórios de infraestrutura
-- 📝 Documentar projetos técnicos
-- 🎓 Preparação para AZ-900
-- ☁️ Evoluir posteriormente para Azure Administrator
-
----
-
-## 🤝 Vamos nos conectar?
+## 🤝 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/denisgoes/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Denis%20Goes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
